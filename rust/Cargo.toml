@@ -1,6 +1,6 @@
 [package]
 name = "httpql"
-authors = ["KhulnaSoft Lab. <dev@khulnasoft.com>"]
+authors = ["KhulnaSoft Lab. <iconmamundentist@gmail.com>"]
 description = "Parser for the HTTPQL language"
 repository = "https://github.com/khulnasoft-lab/httpql"
 license = "MIT"
