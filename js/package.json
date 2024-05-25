@@ -1,6 +1,6 @@
 {
   "name": "@khulnasoft/httpql",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Parser for the HTTPQL language",
   "author": "KhulnaSoft Lab. <dev@khulnasoft.com>",
   "license": "MIT",
