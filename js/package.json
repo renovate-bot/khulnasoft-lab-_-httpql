@@ -30,7 +30,7 @@
     "neverthrow": "^6.1.0"
   },
   "devDependencies": {
-    "@lezer/generator": "1.6.0",
+    "@lezer/generator": "1.7.0",
     "@types/node": "20.11.30",
     "@typescript-eslint/eslint-plugin": "7.5.0",
     "@typescript-eslint/parser": "7.5.0",
